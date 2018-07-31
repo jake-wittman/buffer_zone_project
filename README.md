@@ -7,3 +7,19 @@ This is the first project I worked on as a Master's student in Entomology at the
 - Statistical tests including ANOVA and generalized linear models, along with statistical techniques used with circular data
 - A Monte Carlo simulation using parameters derived from my experiments to simulate the movement of gypsy moth caterpillars
 - Publication quality plots of the results I presented in my thesis (in the process of publishing these chapters)
+
+*Once the paper is published, I will update this readme with a direct link.* 
+
+### Background 
+Gypsy moth is an invasive insect in North America. It was introduced to the United States in the 1860s and has since been spreading across the country. Gypsy moths are easily spread by moving their egg masses. Adult female gypsy moths are flightless and will lay eggs indiscriminately, which may include the underside of cars or firewood. There is a quarantine in place, maintained by the USDA, to limit the spread of the gypsy moth. One of the practices in the quarantine used to limit the spread of gypsy moth targets industries that move wood products across the quarantine boundary. These industries must "stage" their wood products in a 100-foot radius, host vegetation-free buffer zone. We didn't know much about how gypsy moth caterpillars moved in such buffer zone environments until I completed this project. This lack of knowledge made it difficult to evaluate how effective the buffer zone practice was. In this project, we released gypsy moth caterpillars in a buffer zone environment and tracked their movement with harmonic radar. We looked at how the presence or absence of vegetation on the edge of the buffer zone and starvation affected the movement of the caterpillars. 
+
+### Conclusion Highlights
+
+1) **Caterpillars are able to reach products staged at the center of a 100-foot buffer zone but appear unlikely to do so.** When no host vegetation was present, 4% of the caterpillars we released reached the wood staged at the center of the buffer zone. No caterpillars that we released in the presence of host vegetation reached the center of the buffer zone.
+2) **Increasing the size of the buffer zone will decrease the likelihood caterpillars will reach objects staged at the center, but with diminishing returns.** According to our simulation models of different buffer zone sizes, increases in the efficacy of the buffer zone diminish quickly after a 125-foot radius. This result is, however, dependent on the size of the objects staged at the center of the buffer zone. Larger staging areas may require larger buffer zones to stay effective.
+3) **The buffer zone practice is likely achieving the desired impact.** Our simulation and field studies show small numbers of gypsy moth caterpillars will reach the center of the buffer zone. Under conditions where hosts are available on the outside of the buffer zone and populations of gypsy moth are low, it is unlikely that caterpillars will enter the buffer zone.
+
+
+
+
+
