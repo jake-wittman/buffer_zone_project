@@ -8,7 +8,7 @@ This is the first project I worked on as a Master's student in Entomology at the
 - A Monte Carlo simulation using parameters derived from my experiments to simulate the movement of gypsy moth caterpillars
 - Publication quality plots of the results I presented in my thesis (in the process of publishing these chapters)
 
-*Once the paper is published, I will update this readme with a direct link.* 
+The paper can be found here: https://academic.oup.com/ee/advance-article/doi/10.1093/ee/nvz025/5429494
 
 ### Background 
 Gypsy moth is an invasive insect in North America. It was introduced to the United States in the 1860s and has since been spreading across the country. Gypsy moths are easily spread by moving their egg masses. Adult female gypsy moths are flightless and will lay eggs indiscriminately, which may include the underside of cars or firewood. There is a quarantine in place, maintained by the USDA, to limit the spread of the gypsy moth. One of the practices in the quarantine used to limit the spread of gypsy moth targets industries that move wood products across the quarantine boundary. These industries must "stage" their wood products in a 100-foot radius, host vegetation-free buffer zone. We didn't know much about how gypsy moth caterpillars moved in such buffer zone environments until I completed this project. This lack of knowledge made it difficult to evaluate how effective the buffer zone practice was. In this project, we released gypsy moth caterpillars in a buffer zone environment and tracked their movement with harmonic radar. We looked at how the presence or absence of vegetation on the edge of the buffer zone and starvation affected the movement of the caterpillars. 
